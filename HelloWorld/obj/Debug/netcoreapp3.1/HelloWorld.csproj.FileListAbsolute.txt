@@ -1,0 +1,11 @@
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/minzhenli/Desktop/3610 labs/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
